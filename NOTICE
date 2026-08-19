@@ -1,0 +1,14 @@
+Cambricon Hyperspectral Segmentation Inference Framework
+Copyright (C) 2026 buct-liyang
+
+This software is based on and modified from the Cambricon EasyDK sample code.
+Original code:
+  Copyright (C) [2021] by Cambricon, Inc.
+  Licensed under the Apache License, Version 2.0.
+
+This product includes software developed by Cambricon, Inc.
+(https://www.cambricon.com/).
+
+Third-party libraries are NOT bundled in this repository. Users must obtain
+them from their respective official sources; see README.md for the list and
+links.
